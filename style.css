@@ -44,10 +44,14 @@ a:hover{
     text-underline-offset: 1rem ;
 }
 .logo{
-    font-size: 2rem;
+    display: flex;
+    align-items: center;
 }
 .logo:hover{
     cursor: pointer;
+}
+.logo img{
+    width: 9rem;
 }
 
 /* HamburgerMenu */
