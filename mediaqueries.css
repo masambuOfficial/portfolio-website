@@ -59,6 +59,10 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
+    footer .logo{
+        margin-top: 5rem;
+        margin-bottom: -5rem;
+    }
     .about-containers, .contact-info-upper-container, .btn-container{
         flex-wrap: wrap;
     }
